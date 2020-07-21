@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://barkbarklington.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://barkbarklington.github.io/</loc>
+</url>
+<url>
+<loc>https://barkbarklington.github.io/commission-from-taggz-feralcon2020-2.html</loc>
+<lastmod>2020-07-21T18:16:04-04:00</lastmod>
+</url>
+<url>
+<loc>https://barkbarklington.github.io/commission-from-taggz-feralcon2020.html</loc>
+<lastmod>2020-07-21T18:15:33-04:00</lastmod>
+<image:image>
+<image:loc>https://barkbarklington.github.io/media\posts\1/gallery/BarkDoodle-thumbnail.png</image:loc>
+<image:title><![CDATA[Commission from @Taggz #FeralCon2020]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://barkbarklington.github.io/media\posts\1/gallery/BarkDoodleFull-thumbnail.png</image:loc>
+<image:title><![CDATA[Commission from @Taggz #FeralCon2020]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://barkbarklington.github.io/media\posts\1/gallery/BarkDoodleSticker-thumbnail.png</image:loc>
+<image:title><![CDATA[Commission from @Taggz #FeralCon2020]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://barkbarklington.github.io/commissions-from-limewire-tealyeen.html</loc>
+<lastmod>2020-07-21T18:31:14-04:00</lastmod>
+</url>
+</urlset>
