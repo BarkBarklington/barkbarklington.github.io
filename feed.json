@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "DINKIN | BarkBarklington | ~BowTie~ |  AUTUMN",
+    "title": "My Portfolio",
     "description": "",
     "home_page_url": "https://barkbarklington.github.io",
     "feed_url": "https://barkbarklington.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://barkbarklington.github.io/media/website/android-chrome-192x192-4.png",
     "author": {
         "name": "DINKIN | BarkBarklington | ~BowTie~ |  AUTUMN"
     },
@@ -21,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-22T22:39:00-04:00",
-            "date_modified": "2020-07-22T22:39:00-04:00"
+            "date_published": "2020-08-20T15:51:08-04:00",
+            "date_modified": "2020-08-20T15:51:08-04:00"
         },
         {
             "id": "https://barkbarklington.github.io/taggz-or-commissions.html",
@@ -35,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-22T22:39:00-04:00",
-            "date_modified": "2020-07-22T22:39:00-04:00"
+            "date_published": "2020-08-20T15:51:08-04:00",
+            "date_modified": "2020-08-20T15:51:08-04:00"
         },
         {
             "id": "https://barkbarklington.github.io/limewire-or-tealyeen-or-commissions.html",
@@ -49,8 +48,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-22T22:39:00-04:00",
-            "date_modified": "2020-07-22T22:39:00-04:00"
+            "date_published": "2020-08-20T15:51:08-04:00",
+            "date_modified": "2020-08-20T15:51:08-04:00"
         },
         {
             "id": "https://barkbarklington.github.io/macro-flowers-v30.html",
@@ -63,8 +62,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-22T22:39:00-04:00",
-            "date_modified": "2020-07-22T22:39:00-04:00"
+            "date_published": "2020-08-20T15:51:08-04:00",
+            "date_modified": "2020-08-20T15:51:08-04:00"
         }
     ]
 }
